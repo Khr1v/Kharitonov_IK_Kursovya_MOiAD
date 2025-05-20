@@ -1,0 +1,12 @@
+catboost
+kagglehub
+keybert
+matplotlib
+nltk
+numpy
+pandas
+seaborn
+sentence-transformers
+scikit-learn
+wordcloud
+xgboost
